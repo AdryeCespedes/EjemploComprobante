@@ -1,0 +1,12 @@
+D:\EjemploComprobante\Comprobantes\Comprobantes\bin\Debug\net6.0\Comprobantes.deps.json
+D:\EjemploComprobante\Comprobantes\Comprobantes\bin\Debug\net6.0\Comprobantes.dll
+D:\EjemploComprobante\Comprobantes\Comprobantes\bin\Debug\net6.0\ref\Comprobantes.dll
+D:\EjemploComprobante\Comprobantes\Comprobantes\bin\Debug\net6.0\Comprobantes.pdb
+D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.AssemblyInfoInputs.cache
+D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.AssemblyInfo.cs
+D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.csproj.CoreCompileInputs.cache
+D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.dll
+D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\ref\Comprobantes.dll
+D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.pdb
+D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.csproj.AssemblyReference.cache
