@@ -235,25 +235,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aescudero\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\adrye\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EjemploComprobante\\EjemploComprobante\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Source\\Comprobante\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\EjemploComprobante\\EjemploComprobante\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\aescudero\\.nuget\\packages\\",
-      "outputPath": "D:\\EjemploComprobante\\EjemploComprobante\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Source\\Comprobante\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\adrye\\.nuget\\packages\\",
+      "outputPath": "C:\\Source\\Comprobante\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\aescudero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adrye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -266,8 +269,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\EjemploComprobante\\EjemploComprobante\\Comprobantes\\Comprobantes\\Comprobantes.csproj": {
-              "projectPath": "D:\\EjemploComprobante\\EjemploComprobante\\Comprobantes\\Comprobantes\\Comprobantes.csproj"
+            "C:\\Source\\Comprobante\\Comprobantes\\Comprobantes\\Comprobantes.csproj": {
+              "projectPath": "C:\\Source\\Comprobante\\Comprobantes\\Comprobantes\\Comprobantes.csproj"
             }
           }
         }
@@ -306,7 +309,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

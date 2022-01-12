@@ -10,3 +10,15 @@ D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.dl
 D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\ref\Comprobantes.dll
 D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.pdb
 D:\EjemploComprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.csproj.AssemblyReference.cache
+C:\Source\Comprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.csproj.AssemblyReference.cache
+C:\Source\Comprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Comprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.AssemblyInfoInputs.cache
+C:\Source\Comprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.AssemblyInfo.cs
+C:\Source\Comprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.csproj.CoreCompileInputs.cache
+C:\Source\Comprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.dll
+C:\Source\Comprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\ref\Comprobantes.dll
+C:\Source\Comprobante\Comprobantes\Comprobantes\obj\Debug\net6.0\Comprobantes.pdb
+C:\Source\Comprobante\Comprobantes\Comprobantes\bin\Debug\net6.0\Comprobantes.deps.json
+C:\Source\Comprobante\Comprobantes\Comprobantes\bin\Debug\net6.0\Comprobantes.dll
+C:\Source\Comprobante\Comprobantes\Comprobantes\bin\Debug\net6.0\ref\Comprobantes.dll
+C:\Source\Comprobante\Comprobantes\Comprobantes\bin\Debug\net6.0\Comprobantes.pdb

@@ -15,16 +15,15 @@ namespace Comprobantes
             Console.WriteLine("---------------------------------------------");
             ComprobanteFACNCND Comp = new ComprobanteFACNCND();
             Comp.ID.Prefijo = "023-045";
-            Comp.ID.Fecha = DateTime.Now.ToString("yyyyMMdd");
-            Comp.ID.Serie = "A-7866";
-            Comp.ID.FechaInicioTimbrado = DateTime.Now.ToString("yyyyMMdd");
-            Comp.ID.Timbrado = 987000;
+            Comp.ID.Fecha = DateOnly.FromDateTime (DateTime.Now);
+            Comp.ID.SerieTimbrado = "A-7866";
+            Comp.ID.FechaInicioTimbrado = DateOnly.FromDateTime(DateTime.Now);
+            Comp.ID.Timbrado = "987000";
             Comp.ID.Tipo = 1;
             Comp.ID.Numero = 3455000;
             Comp.Emisor.NroDocumento = "778-20039534";
             Comp.Emisor.RazonSocial = "Cucha Cucha Construcciones SA";
-            Comp.Emisor.OtraProp1 = " es OtraProp1";
-            Comp.Emisor.OtraProp2 = " es OtraProp2";
+
 
             Console.WriteLine(JsonConvert.SerializeObject(Comp, Formatting.Indented));
             Console.WriteLine("---------------------------------------------");
@@ -55,8 +54,8 @@ namespace Comprobantes
 
         public class ComprobantePyFACNCND
         {
-            public Base_Emisor? Emisor { get; set;}
-            public Base_ID? ID { get; set; }
+            public BaseEmisor? Emisor { get; set;}
+            public BaseComprobanteID? ID { get; set; }
             public string? PropNew1 { get; set; }
 
         }
