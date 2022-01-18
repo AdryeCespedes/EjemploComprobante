@@ -195,4 +195,11 @@ namespace Comprobantes
         public uint Idioma { get; set; } = 1; 
         public List<Permiso> Permisos { get; set; } = new List<Permiso>(); 
     }
+
+    /*public class Comprobante
+    {
+        public BaseComprobanteID ComprobanteID { get; set; } = new BaseComprobanteID ();
+        public ComprobanteCabeceraExportacion? ComprobanteCabeceraExportacion { get; set; };
+
+    }*/
 }
