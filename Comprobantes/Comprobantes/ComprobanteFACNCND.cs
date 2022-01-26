@@ -4,13 +4,13 @@
 
     public class ComprobanteFACNCND
     {
-        protected BaseEmisor _emisor = new BaseEmisor();
-        protected BaseComprobanteID _id = new BaseComprobanteID();
-        public BaseEmisor Emisor
+        protected ComprobanteEmisor _emisor = new ComprobanteEmisor();
+        protected ComprobanteID _id = new ComprobanteID();
+        public ComprobanteEmisor Emisor
         {
             get { return _emisor; }
         }
-        public BaseComprobanteID ID
+        public ComprobanteID ID
         {
             get { return _id; }
         }

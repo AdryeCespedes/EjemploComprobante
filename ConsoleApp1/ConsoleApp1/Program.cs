@@ -13,14 +13,14 @@ namespace Comprobantes
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("                 GENERICO                    ");
             Console.WriteLine("---------------------------------------------");
-            ComprobanteFACNCND Comp = new ComprobanteFACNCND();
-            Comp.ID.Prefijo = "023-045";
-            Comp.ID.Fecha = DateOnly.FromDateTime (DateTime.Now);
-            Comp.ID.SerieTimbrado = "A-7866";
-            Comp.ID.FechaInicioTimbrado = DateOnly.FromDateTime(DateTime.Now);
-            Comp.ID.Timbrado = "987000";
-            Comp.ID.Tipo = 1;
-            Comp.ID.Numero = 3455000;
+            ComprobanteVenta Comp = new ComprobanteVenta();
+            Comp.Identificador.Prefijo = "023-045";
+            Comp.Identificador.Fecha = DateOnly.FromDateTime (DateTime.Now);
+            Comp.Identificador.SerieTimbrado = "A-7866";
+            Comp.Identificador.FechaInicioTimbrado = DateOnly.FromDateTime(DateTime.Now);
+            Comp.Identificador.Timbrado = "987000";
+            Comp.Identificador.Tipo = 1;
+            Comp.Identificador.Numero = 3455000;
             Comp.Emisor.NroDocumento = "778-20039534";
             Comp.Emisor.RazonSocial = "Cucha Cucha Construcciones SA";
 
@@ -54,8 +54,8 @@ namespace Comprobantes
 
         public class ComprobantePyFACNCND
         {
-            public BaseEmisor? Emisor { get; set;}
-            public BaseComprobanteID? ID { get; set; }
+            public ComprobanteEmisor? Emisor { get; set;}
+            public ComprobanteID? ID { get; set; }
             public string? PropNew1 { get; set; }
 
         }
